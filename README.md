@@ -1,2 +1,4 @@
 # webdesign-final-project
 This is a website I created for COMI1750 (Web Development 1) as a final project to showcase the work I learned during the semester.
+The description for this project was: "Create a simple portfolio website that demonstrates some of the work that you created for this class."
+I had to include a header that contains something clickable that would bring the user back to the homepage, a nav bar that can be used to bring the user to all of the different parts of the webpage, and a footer that is the same on every page. Every page that is involved on this webpage is there because it was part of the final assignment, however I enjoyed the creative freedom I had to design the page the way I wanted. And to include personalized information the way I wanted as well. One thing I really love about web design is the creativity that goes into it.
